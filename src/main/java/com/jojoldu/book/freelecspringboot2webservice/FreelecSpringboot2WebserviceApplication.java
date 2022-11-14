@@ -8,6 +8,12 @@ public class FreelecSpringboot2WebserviceApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FreelecSpringboot2WebserviceApplication.class, args);
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 5d5e7ef (Initial commit123)
     }
 
 }
